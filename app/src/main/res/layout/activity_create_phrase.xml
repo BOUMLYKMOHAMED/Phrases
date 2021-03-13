@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/cl_background"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        app:layout_constraintDimensionRatio="1:1"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <ImageView
+            android:id="@+id/image_background"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:src="@color/white"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <androidx.appcompat.widget.AppCompatEditText
+            android:id="@+id/text_phrase"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_margin="16dp"
+            android:layout_marginTop="8dp"
+            android:background="@android:color/transparent"
+            android:cursorVisible="false"
+            android:hint="@string/enter_your_text"
+            android:imeOptions="actionDone"
+            android:textColor="@color/black"
+            android:textColorHint="#8a000000"
+            android:textSize="16sp"
+            android:typeface="serif"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <ImageView
+            android:id="@+id/image_logo"
+            android:layout_width="32dp"
+            android:layout_height="32dp"
+            android:src="@mipmap/ic_launcher"
+            android:layout_gravity="center"
+            android:layout_marginBottom="8dp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"/>
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+    <Button
+        android:id="@+id/button_share_image"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginEnd="4dp"
+        android:layout_marginRight="4dp"
+        android:layout_marginBottom="8dp"
+        android:backgroundTint="@color/colorAccent"
+        android:maxLines="1"
+        android:text="@string/share_image"
+        android:textAppearance="@style/TextAppearance.AppCompat"
+        android:textSize="14sp"
+        app:layout_constraintBottom_toTopOf="@id/ads_banner"
+        app:layout_constraintEnd_toStartOf="@id/button_share_text"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:targetApi="lollipop" />
+
+    <Button
+        android:id="@+id/button_share_text"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="4dp"
+        android:layout_marginLeft="4dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginRight="8dp"
+        android:backgroundTint="@color/colorAccent"
+        android:maxLines="1"
+        android:text="@string/share_text"
+        android:textAppearance="@style/TextAppearance.AppCompat"
+        android:textSize="14sp"
+        app:layout_constraintBottom_toBottomOf="@id/button_share_image"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@id/button_share_image"
+        tools:targetApi="lollipop" />
+
+    <com.google.android.gms.ads.AdView xmlns:ads="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/ads_banner"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentBottom="true"
+        android:orientation="vertical"
+        android:visibility="gone"
+        ads:adSize="BANNER"
+        ads:adUnitId="@string/admob_banner_id"
+        app:layout_constraintBottom_toBottomOf="parent" />
+
+    <com.ramotion.circlemenu.CircleMenuView
+        android:id="@+id/circle_menu"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:button_colors="@array/colors"
+        app:button_icons="@array/icons"
+        app:layout_constraintBottom_toBottomOf="@id/cl_background"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/cl_background" />
+</androidx.constraintlayout.widget.ConstraintLayout>

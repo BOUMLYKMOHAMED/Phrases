@@ -1,0 +1,5 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="menu_item_dim">32dp</dimen>
+    <dimen name="menu_item_margin">4dp</dimen>
+</resources>

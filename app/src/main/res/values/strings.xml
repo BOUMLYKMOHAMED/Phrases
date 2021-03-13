@@ -1,0 +1,149 @@
+<resources>
+    <string name="admob_banner_id" translatable="false">ca-app-pub-9514195433111172/9279644098</string>
+    <string name="admob_app_id" translatable="false">ca-app-pub-9514195433111172~3810505625</string>
+    <string name="animations">Animations</string>
+    <string name="app_name">Phrases for every occasion</string>
+    <string name="app_title">Phrases\nfor every occasion</string>
+    <string name="can_we_use_your_data_to_tailor_ads_for_you">Can we use your data to tailor ads for you?</string>
+    <string name="cat_all">All</string>
+    <string name="cat_anniversary">Anniversary</string>
+    <string name="cat_beautiful">Beautiful</string>
+    <string name="cat_birth">Birth</string>
+    <string name="cat_birthday">Happy Birthday</string>
+    <string name="cat_engagement">Engagement</string>
+    <string name="cat_epiphany">Epiphany</string>
+    <string name="cat_farewell">Farewell</string>
+    <string name="cat_father">Father</string>
+    <string name="cat_good_morning">Good Morning</string>
+    <string name="cat_goodnight">Goodnight</string>
+    <string name="cat_grandparents">Grandparents</string>
+    <string name="cat_halloween" translatable="false">Halloween</string>
+    <string name="cat_happy_easter">Happy Easter</string>
+    <string name="cat_healing">Healing</string>
+    <string name="cat_love">Love</string>
+    <string name="cat_merry_christmas">Merry Christmas</string>
+    <string name="cat_miss_you">Miss you</string>
+    <string name="cat_mother">Mother</string>
+    <string name="cat_murphys_law">Murphy\'s law</string>
+    <string name="cat_name_day">Name Day</string>
+    <string name="cat_new_house">New house</string>
+    <string name="cat_sad">Sad</string>
+    <string name="cat_thanks">Thanks</string>
+    <string name="cat_trip">Trip</string>
+    <string name="cat_valentines_day">Valentine\'s day</string>
+    <string name="cat_wedding">Wedding</string>
+    <string name="cat_women">Women</string>
+    <string name="cat_work">Work</string>
+    <string name="change_language">Change language</string>
+    <string name="change_text_color">Change text color</string>
+    <string name="change_the_app_language">Change the app language</string>
+    <string name="choose_an_image_from_phone">Choose an image from phone</string>
+    <string name="contact_us">Contact us</string>
+    <string name="contact_us_text">Contact us for any problem, request and advice</string>
+    <string name="create_your_phrase">Create your phrase</string>
+    <string name="data_protection_consent">Data Protection Consent</string>
+    <string name="degree">Degree</string>
+    <string name="download_this_app">Download for free \"Phrases for every occasion\".\nhttps://goo.gl/eWJh2t</string>
+    <string name="enable_or_disable_animations">Enable or disable animations</string>
+    <string name="enter_your_text">Enter your text…</string>
+    <string name="error_billing">Billing error, please try again.</string>
+    <string name="facebook" translatable="false">Facebook</string>
+    <string name="favorites">Favorites</string>
+    <string name="find_out_our_apps_on_google_play">Find out our apps on Google Play</string>
+    <string name="follow_us_on_instagram">Follow us on Instagram</string>
+    <string name="follow_us_on_twitter">Follow us on Twitter</string>
+    <string name="gdpr_main">Our partners will collect data and use a unique identifier on your device to show you ads. You chan change your choice anytime in the app settings. Your information will never be shared with anyone.Consult the privacy policy of our partners:\n<a href="https://policies.google.com/privacy">AdMob</a>\n<a href="https://firebase.google.com/support/privacy/">Firebase</a>
+    </string>
+    <string name="google_play" translatable="false">Google Play</string>
+    <string name="i_am_at_least_16_years_old">I am at least 16 years old</string>
+    <string name="image_saved">Image saved</string>
+    <string name="imagebackground" translatable="false">ImageBackground</string>
+    <string name="instagram" translatable="false">Instagram</string>
+    <string name="key_all" translatable="false">All</string>
+    <string name="key_anniversary" translatable="false">Anniversary</string>
+    <string name="key_beautiful" translatable="false">Beautiful</string>
+    <string name="key_birth" translatable="false">Birth</string>
+    <string name="key_birthday" translatable="false">Happy Birthday</string>
+    <string name="key_degree" translatable="false">Degree</string>
+    <string name="key_engagement" translatable="false">Engagement</string>
+    <string name="key_epiphany" translatable="false">Epiphany</string>
+    <string name="key_farewell" translatable="false">Farewell</string>
+    <string name="key_father" translatable="false">Father</string>
+    <string name="key_good_morning" translatable="false">Good Morning</string>
+    <string name="key_goodnight" translatable="false">Goodnight</string>
+    <string name="key_grandparents" translatable="false">Grandparents</string>
+    <string name="key_halloween" translatable="false">Halloween</string>
+    <string name="key_happy_easter" translatable="false">Happy Easter</string>
+    <string name="key_healing" translatable="false">Healing</string>
+    <string name="key_love" translatable="false">Love</string>
+    <string name="key_merry_christmas" translatable="false">Merry Christmas</string>
+    <string name="key_miss_you" translatable="false">Miss You</string>
+    <string name="key_mother" translatable="false">Mother</string>
+    <string name="key_murphys_law" translatable="false">Murphy</string>
+    <string name="key_name_day" translatable="false">Name Day</string>
+    <string name="key_new_house" translatable="false">New House</string>
+    <string name="key_sad" translatable="false">Sad</string>
+    <string name="key_thanks" translatable="false">Thanks</string>
+    <string name="key_trip" translatable="false">Trip</string>
+    <string name="key_valentines_day" translatable="false">Valentines day</string>
+    <string name="key_wedding" translatable="false">Wedding</string>
+    <string name="key_women" translatable="false">Women</string>
+    <string name="key_work" translatable="false">Work</string>
+    <string-array name="languages">
+        <item>Italian</item>
+        <item>English</item>
+        <item>German</item>
+        <item>Spanish</item>
+        <item>French</item>
+    </string-array>
+    <string-array name="languages_alias">
+        <item>it</item>
+        <item>en</item>
+        <item>de</item>
+        <item>es</item>
+        <item>fr</item>
+    </string-array>
+    <string name="like_us_on_facebook">Like us on Facebook</string>
+    <string name="loading">Loading…</string>
+    <string name="make_a_pick_with_camera">Make a pick with camera</string>
+    <string name="modify_phrase">Modify phrase</string>
+    <string name="network_unavailable">Network unavailable!</string>
+    <string name="no_results_found">No results found</string>
+    <string name="notifications">Notifications</string>
+    <string name="phrase_has_been_copied_to_clipboard">Phrase has been copied to clipboard</string>
+    <string name="phrases_ended">Phrases ended</string>
+    <string name="premium_version_body">Hi, with a simple purchase you will allow us to improve and develop new applications for you.
+        \n- Ads will be removed.
+        \n- No logo in the image to share.
+        \n- Unlock custom fonts for your images.
+        \n- Unlock favorite phrases.
+        \n\nWatch a short video to unlock Premium Version for this session.</string>
+    <string name="privacy_policy" translatable="false">Privacy Policy</string>
+    <string name="product_correctly_purchased">Premium version correctly purchased, Thanks.</string>
+    <string name="purchase">Purchase</string>
+    <string name="purchase_premium_version">Purchase premium version</string>
+    <string name="rate_the_app">Rate the app</string>
+    <string name="rate_the_app_in_google_play">Rate the app in Google Play</string>
+    <string name="read_our_privacy_policy">Read our Privacy Policy</string>
+    <string name="receive_notifications">Receive notifications</string>
+    <string name="reload">Reload</string>
+    <string name="search">Search…</string>
+    <string name="search_a_phrase">Search a phrase</string>
+    <string name="select_font">Select a font</string>
+    <string name="select_image">Select Image</string>
+    <string name="send_mail">Send mail</string>
+    <string name="settings">Settings</string>
+    <string name="share">Share</string>
+    <string name="share_image">Share image</string>
+    <string name="share_text">Share text</string>
+    <string name="share_this_app">Share this App</string>
+    <string name="share_this_app_with_your_friends">Share this app with your friends</string>
+    <string name="share_with">Share with</string>
+    <string name="text_size">Text size:</string>
+    <string name="twitter" translatable="false">Twitter</string>
+    <string name="video">Video</string>
+    <string name="we_care_about_your_privacy_and_data_security_we_keep_this_app_free_by_showing_ads">We care about your privacy and data security. We keep this app free by showing ads.</string>
+    <string name="you_already_have_the_premium_version">You already have the premium version.</string>
+    <string name="server_offline">The server is under maintenance. We apologize for the inconvenience and please try again later.</string>
+    <string name="loading_ads">Loading Ads</string>
+</resources>

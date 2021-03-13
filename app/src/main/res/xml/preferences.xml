@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <SwitchPreference
+        android:defaultValue="true"
+        android:icon="@drawable/ic_notifications"
+        android:key="pref_notifications"
+        android:summary="@string/receive_notifications"
+        android:title="@string/notifications"
+        android:visibility="gone" />
+    <SwitchPreference
+        android:defaultValue="true"
+        android:icon="@drawable/ic_animation"
+        android:key="pref_animations"
+        android:summary="@string/enable_or_disable_animations"
+        android:title="@string/animations" />
+    <ListPreference
+        android:entries="@array/languages"
+        android:entryValues="@array/languages_alias"
+        android:icon="@drawable/ic_language"
+        android:key="pref_change_language"
+        android:persistent="true"
+        android:summary="@string/change_the_app_language"
+        android:title="@string/change_language" />
+
+    <Preference
+        android:icon="@drawable/ic_share"
+        android:key="pref_share"
+        android:summary="@string/share_this_app_with_your_friends"
+        android:title="@string/share_this_app" />
+
+    <Preference
+        android:icon="@drawable/ic_google_play"
+        android:key="pref_google_play"
+        android:summary="@string/find_out_our_apps_on_google_play"
+        android:title="@string/google_play" />
+    <Preference
+        android:icon="@drawable/ic_instagram"
+        android:key="pref_instagram"
+        android:summary="@string/follow_us_on_instagram"
+        android:title="@string/instagram" />
+    <Preference
+        android:icon="@drawable/ic_facebook"
+        android:key="pref_facebook"
+        android:summary="@string/like_us_on_facebook"
+        android:title="@string/facebook" />
+    <Preference
+        android:icon="@drawable/ic_twitter"
+        android:key="pref_twitter"
+        android:summary="@string/follow_us_on_twitter"
+        android:title="@string/twitter" />
+    <Preference
+        android:icon="@drawable/ic_rate_app"
+        android:key="pref_rate_app"
+        android:summary="@string/rate_the_app_in_google_play"
+        android:title="@string/rate_the_app" />
+    <Preference
+        android:icon="@drawable/ic_data_protection_consent"
+        android:key="pref_gdpr"
+        android:title="@string/data_protection_consent"
+        android:summary="@string/can_we_use_your_data_to_tailor_ads_for_you"/>
+    <Preference
+        android:icon="@drawable/ic_privacy"
+        android:key="pref_privacy_policy"
+        android:title="@string/privacy_policy"
+        android:summary="@string/read_our_privacy_policy"/>
+    <Preference
+        android:icon="@drawable/ic_mail"
+        android:key="pref_contact_us"
+        android:summary="@string/contact_us_text"
+        android:title="@string/contact_us" />
+</PreferenceScreen>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+    <string name="animations">Animazioni</string>
+    <string name="app_name">Frasi per tutte le occasioni</string>
+    <string name="app_title">Frasi\nper tutte le occasioni</string>
+    <string name="cat_anniversary">Anniversario</string>
+    <string name="cat_beautiful">Belle</string>
+    <string name="cat_birth">Nascita</string>
+    <string name="cat_birthday">Buon Compleanno</string>
+    <string name="cat_engagement">Fidanzamento</string>
+    <string name="cat_farewell">Addio</string>
+    <string name="cat_father">Papà</string>
+    <string name="cat_good_morning">Buongiorno</string>
+    <string name="cat_goodnight">Buonanotte</string>
+    <string name="cat_grandparents">Nonni</string>
+    <string name="cat_happy_easter">Buona Pasqua</string>
+    <string name="cat_love">Amore</string>
+    <string name="cat_merry_christmas">Buon Natale</string>
+    <string name="cat_miss_you">Mi manchi</string>
+    <string name="cat_mother">Mamma</string>
+    <string name="cat_sad">Tristi</string>
+    <string name="cat_thanks">Grazie</string>
+    <string name="cat_trip">Viaggio</string>
+    <string name="cat_valentines_day">San Valentino</string>
+    <string name="cat_wedding">Matrimonio</string>
+    <string name="cat_women">Donne</string>
+    <string name="cat_work">Lavoro</string>
+    <string name="change_language">Cambia lingua</string>
+    <string name="change_the_app_language">Cambia la lingua dell\'app</string>
+    <string name="choose_an_image_from_phone">Scegli dalla galleria</string>
+    <string name="contact_us">Contattaci</string>
+    <string name="contact_us_text">Contattaci per qualsiasi problema, richiesta o suggerimento</string>
+    <string name="create_your_phrase">Crea la tua frase</string>
+    <string name="download_this_app">Scarica gratis \"Frasi per tutte le occasioni\" su Google Play.\nhttps://goo.gl/eWJh2t</string>
+    <string name="enable_or_disable_animations">Attiva o disabilita le animazioni</string>
+    <string name="enter_your_text">Inserisci la tua frase</string>
+    <string name="error_billing">Errore nell\'acquisto, prova più tardi.</string>
+    <string name="favorites">Favoriti</string>
+    <string name="find_out_our_apps_on_google_play">Scopri le nostre applicazione su Google Play</string>
+    <string name="follow_us_on_instagram">Seguici su Instagram</string>
+    <string name="follow_us_on_twitter">Seguici su Twitter</string>
+    <string-array name="languages">
+        <item>Italiano</item>
+        <item>Inglese</item>
+        <item>Tedesco</item>
+        <item>Spagnolo</item>
+        <item>Francese</item>
+    </string-array>
+    <string name="like_us_on_facebook">Metti like alla nostra pagina Facebook</string>
+    <string name="make_a_pick_with_camera">Scatta una foto</string>
+    <string name="modify_phrase">Modifica la frase</string>
+    <string name="network_unavailable">Connessione non riuscita</string>
+    <string name="no_results_found">Nessun risultato trovato</string>
+    <string name="notifications">Notifiche</string>
+    <string name="phrase_has_been_copied_to_clipboard">Frase copiata negli appunti</string>
+    <string name="phrases_ended">Frasi terminate</string>
+    <string name="premium_version_body">Ciao, con un semplice acquisto ci permetterai di migliorare e sviluppare nuove applicazioni per te.\n- La pubblicità verrà rimossa.\n- Niente logo nell\'immagine da condividere.\n- Sblocca font personalizzati per le tue immagini.\n- Sblocca le frasi preferite.\n\nGuarda un breve video per sbloccare la versione Premium per questa sessione.</string>
+    <string name="product_correctly_purchased">Versione premium acquistata, grazie.</string>
+    <string name="purchase">Acquista</string>
+    <string name="purchase_premium_version">Acquista la versione Premium</string>
+    <string name="rate_the_app">Vota l\'app</string>
+    <string name="rate_the_app_in_google_play">Vota l\'app nel Google Play</string>
+    <string name="receive_notifications">Ricevi le notifiche</string>
+    <string name="reload">Ricarica</string>
+    <string name="search">Cerca…</string>
+    <string name="search_a_phrase">Cerca una frase</string>
+    <string name="select_font">Seleziona un font</string>
+    <string name="select_image">Seleziona un\'immagine</string>
+    <string name="send_mail">Manda email</string>
+    <string name="settings">Impostazioni</string>
+    <string name="share">Condividi</string>
+    <string name="share_image">Condividi immagine</string>
+    <string name="share_text">Condividi testo</string>
+    <string name="share_this_app">Condividi l\'app</string>
+    <string name="share_this_app_with_your_friends">Condividi l\'app con i tuoi amici</string>
+    <string name="share_with">Condividi con</string>
+    <string name="text_size">Dimensione testo:</string>
+    <string name="you_already_have_the_premium_version">Hai già la versione premium.</string>
+    <string name="image_saved">Immagine salvata</string>
+    <string name="change_text_color">Cambia il colore del testo</string>
+    <string name="cat_name_day">Onomastico</string>
+    <string name="degree">Diploma - Laurea</string>
+    <string name="data_protection_consent">Protezione Dati Personali</string>
+    <string name="read_our_privacy_policy">Leggi la Privacy Policy</string>
+    <string name="we_care_about_your_privacy_and_data_security_we_keep_this_app_free_by_showing_ads">Ci preoccupiamo della tua privacy e della sicurezza dei dati. Manteniamo l\'app gratuita pubblicando annunci.</string>
+    <string name="gdpr_main">I nostri partner raccoglieranno dati e utilizzeranno un identificativo univoco sul tuo dispositivo per mostrarti annunci. Le tue informazioni non saranno mai condivise con nessuno. Puoi cambiare la tua scelta in qualsiasi momento nelle impostazioni dell\'app. Consulta l\'informativa sulla privacy dei nostri partner:\n<a href="https://policies.google.com/privacy">AdMob</a>\n<a href="https://firebase.google.com/support/privacy/">Firebase</a></string>
+    <string name="can_we_use_your_data_to_tailor_ads_for_you">Possiamo utilizzare i tuoi dati per personalizzare gli annunci?</string>
+    <string name="i_am_at_least_16_years_old">Ho almeno 16 anni</string>
+    <string name="loading">Caricamento…</string>
+    <string name="cat_epiphany">Epifania</string>
+    <string name="cat_murphys_law">Legge di Murphy</string>
+    <string name="cat_healing">Guarigione</string>
+    <string name="cat_all">Tutte</string>
+    <string name="cat_new_house">Casa Nuova</string>
+    <string name="video">Video</string>
+    <string name="server_offline">I nostri server sono attualmente in manutenzione. Ci scusiamo per il disagio e ti invitiamo a riprovare più tardi.</string>
+    <string name="loading_ads">Caricamento pubblicità</string>
+
+</resources>

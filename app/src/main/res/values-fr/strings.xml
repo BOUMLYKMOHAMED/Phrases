@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+    <string name="animations">Animations</string>
+    <string name="app_name">Phrases pour toutes les occasions</string>
+    <string name="app_title">Phrases \n pour toutes les occasions</string>
+    <string name="can_we_use_your_data_to_tailor_ads_for_you">Pouvons-nous utiliser vos données pour personnaliser les annonces pour vous?</string>
+    <string name="cat_all">Tous</string>
+    <string name="cat_anniversary">Anniversaire</string>
+    <string name="cat_beautiful">Belle</string>
+    <string name="cat_birth">Naissance</string>
+    <string name="cat_birthday">Bon anniversaire</string>
+    <string name="cat_engagement">Fiançailles</string>
+    <string name="cat_epiphany">Épiphanie</string>
+    <string name="cat_farewell">Adieu</string>
+    <string name="cat_father">Père</string>
+    <string name="cat_good_morning">Bonjour</string>
+    <string name="cat_goodnight">Bonne nuit</string>
+    <string name="cat_grandparents">Grands-parents</string>
+    <string name="cat_happy_easter">Joyeuses Pâques</string>
+    <string name="cat_healing">Guérison</string>
+    <string name="cat_love">Amour</string>
+    <string name="cat_merry_christmas">Joyeux Noël</string>
+    <string name="cat_miss_you">Tu me manques</string>
+    <string name="cat_mother">Maman</string>
+    <string name="cat_murphys_law">Loi de Murphy</string>
+    <string name="cat_name_day">Jour Nom</string>
+    <string name="cat_new_house">Nouvelle Maison</string>
+    <string name="cat_sad">Triste</string>
+    <string name="cat_thanks">Merci</string>
+    <string name="cat_trip">Voyage</string>
+    <string name="cat_valentines_day">Saint-Valentin</string>
+    <string name="cat_wedding">Mariage</string>
+    <string name="cat_women">Dames</string>
+    <string name="cat_work">Offres d\'emploi</string>
+    <string name="change_language">Changer la langue</string>
+    <string name="change_text_color">Changer la couleur du texte</string>
+    <string name="change_the_app_language">Changer la langue de l\'application</string>
+    <string name="choose_an_image_from_phone">Choisissez parmi la galerie</string>
+    <string name="contact_us">Contact</string>
+    <string name="contact_us_text">Contactez-nous pour tout problème, demande ou suggestion</string>
+    <string name="create_your_phrase">Créez votre phrase</string>
+    <string name="data_protection_consent">Consentement à la protection des données</string>
+    <string name="degree">Diplôme - Degree</string>
+    <string name="download_this_app">Télécharger gratuitement "Phrases pour toutes les occasions" sur Google Play.\n
+https: //goo.gl/eWJh2t</string>
+    <string name="enable_or_disable_animations">Activer ou désactiver les animations</string>
+    <string name="enter_your_text">Entrez votre phrase</string>
+    <string name="error_billing">Erreur lors de l\'achat, essayez plus tard.</string>
+    <string name="favorites">Favoris</string>
+    <string name="find_out_our_apps_on_google_play">Consultez notre application sur Google Play</string>
+    <string name="follow_us_on_instagram">Suivez-nous sur Instagram</string>
+    <string name="follow_us_on_twitter">Suivez-nous sur Twitter</string>
+    <string name="gdpr_main">Nos partenaires collectent des données et utilisent un identifiant unique sur votre appareil pour vous montrer des publicités. Vous pouvez modifier votre choix à tout moment dans les paramètres de l\'application. Vos informations ne seront jamais partagées avec quiconque. Vérifiez la politique de confidentialité de nos partenaires: <a href="https://policies.google.com/privacy"> AdMob </a>
+        <a href="https://firebase.google.com/support/privacy/"> Firebase </a>
+    </string>
+    <string name="i_am_at_least_16_years_old">J\'ai au moins 16 ans</string>
+    <string name="image_saved">Image enregistrée</string>
+    <string-array name="languages">
+        <item>Italien</item>
+        <item>Anglais</item>
+        <item>Allemand</item>
+        <item>Espagnol</item>
+        <item>Français</item>
+    </string-array>
+    <string name="like_us_on_facebook">Mettez-le comme notre page Facebook</string>
+    <string name="loading">Chargement…</string>
+    <string name="make_a_pick_with_camera">Prendre une photo</string>
+    <string name="modify_phrase">Changer la phrase</string>
+    <string name="network_unavailable">Connexion échouée</string>
+    <string name="no_results_found">Aucun résultat trouvé</string>
+    <string name="notifications">Notifications</string>
+    <string name="phrase_has_been_copied_to_clipboard">Phrase copiée dans le presse-papiers</string>
+    <string name="phrases_ended">Sentences terminées</string>
+    <string name="premium_version_body">Bonjour, avec un achat simple vous nous permettra d\'améliorer et de développer de nouvelles applications pour vous.\n- La publicité sera supprimée.\n- Aucun logo dans l\'image à partager.\n- Débloquez des polices personnalisées pour vos images.\n- Débloquez des phrases préférées.\n\nRegardez une courte vidéo à déverrouiller. Version Premium pour cette session.</string>
+    <string name="product_correctly_purchased">Version Premium achetée, merci.</string>
+    <string name="purchase">Acheter</string>
+    <string name="purchase_premium_version">Acheter la version premium.</string>
+    <string name="rate_the_app">Noter l\'application</string>
+    <string name="rate_the_app_in_google_play">Notez l\'application sur Google Play</string>
+    <string name="read_our_privacy_policy">Lire la politique de confidentialité</string>
+    <string name="receive_notifications">Recevoir des notifications</string>
+    <string name="reload">Recharger</string>
+    <string name="search">Recherche…</string>
+    <string name="search_a_phrase">Chercher une phrase</string>
+    <string name="select_font">Sélectionnez une police</string>
+    <string name="select_image">Sélectionnez une image</string>
+    <string name="send_mail">Envoyer un email</string>
+    <string name="settings">Réglages</string>
+    <string name="share">Partager</string>
+    <string name="share_image">Partager l\'image</string>
+    <string name="share_text">Partager le texte</string>
+    <string name="share_this_app">Partager l\'application</string>
+    <string name="share_this_app_with_your_friends">Partagez l\'application avec vos amis</string>
+    <string name="share_with">Partager avec</string>
+    <string name="text_size">Taille du texte:</string>
+    <string name="we_care_about_your_privacy_and_data_security_we_keep_this_app_free_by_showing_ads">Nous nous soucions de votre vie privée et de la sécurité de vos données. Nous gardons cette application gratuite en diffusant des annonces.</string>
+    <string name="you_already_have_the_premium_version">Vous avez déjà la version premium.</string>
+    <string name="video">Vidéo</string>
+    <string name="server_offline">" Le serveur est en maintenance. Nous nous excusons pour la gêne occasionnée et veuillez réessayer plus tard."</string>
+    <string name="loading_ads">Chargement de la publicité</string>
+
+
+</resources>

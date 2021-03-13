@@ -1,0 +1,64 @@
+apply plugin: 'com.android.application'
+apply plugin: 'kotlin-android'
+apply plugin: 'io.fabric'
+apply plugin: 'com.google.gms.google-services'
+
+android {
+    compileSdkVersion 30
+    defaultConfig {
+        applicationId "com.rutershok.phrases"
+        minSdkVersion 16
+        targetSdkVersion 30
+        versionCode 54
+        multiDexEnabled true
+        versionName "1.5.4"
+        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+    }
+
+    buildTypes {
+        release {
+            shrinkResources true
+            minifyEnabled true
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+    compileOptions {
+        sourceCompatibility = '1.8'
+        targetCompatibility = '1.8'
+    }
+    buildToolsVersion '30.0.3'
+}
+
+dependencies {
+    implementation fileTree(include: ['*.jar'], dir: 'libs')
+
+    implementation 'androidx.appcompat:appcompat:1.2.0'
+    implementation 'androidx.constraintlayout:constraintlayout:2.0.4'
+    implementation 'androidx.cardview:cardview:1.0.0'
+    implementation 'androidx.recyclerview:recyclerview:1.1.0'
+    implementation 'com.android.volley:volley:1.2.0'
+    implementation 'com.anjlab.android.iab.v3:library:1.1.0'
+    implementation 'com.github.bumptech.glide:glide:4.11.0'
+    implementation 'com.google.firebase:firebase-crashlytics:17.4.0'
+    implementation 'com.github.matecode:Snacky:1.1.4'
+    implementation 'com.google.android.ads.consent:consent-library:1.0.8'
+    implementation 'com.github.QuadFlask:colorpicker:0.0.15'
+    implementation 'com.google.code.gson:gson:2.8.6'
+    implementation 'com.google.firebase:firebase-ads:19.7.0'
+    implementation 'com.getkeepsafe.taptargetview:taptargetview:1.12.0'
+    implementation 'io.github.kobakei:ratethisapp:1.2.0'
+    implementation 'com.google.firebase:firebase-analytics:18.0.2'
+    implementation 'com.ramotion.circlemenu:circle-menu:0.3.2'
+    implementation 'com.google.firebase:firebase-core:18.0.2'
+    implementation 'com.google.android.material:material:1.4.0-alpha01'
+    implementation 'pub.devrel:easypermissions:3.0.0'
+    testImplementation 'junit:junit:4.13.1'
+    annotationProcessor 'com.github.bumptech.glide:compiler:4.11.0'
+    androidTestImplementation 'androidx.test.ext:junit:1.1.2'
+    androidTestImplementation 'androidx.test.espresso:espresso-core:3.3.0'
+    implementation "androidx.core:core-ktx:1.3.2"
+    implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk7:$kotlin_version"
+}
+repositories {
+    mavenCentral()
+}
